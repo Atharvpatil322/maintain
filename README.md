@@ -13,9 +13,13 @@ A powerful **content management tool** designed for **freelancers, developers, a
 
 ## 🎥 Demo Video
 🚀 **Watch Maintain.it in action!**  
-*(coming soon)*
+
 
 ---
+
+https://github.com/user-attachments/assets/601cc0b7-7da5-4eb1-8357-5539e4b02484
+
+
 
 ## 🛠️ Tech Stack
 
